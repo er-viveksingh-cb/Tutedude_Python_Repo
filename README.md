@@ -10,7 +10,9 @@ Task 2(task2_greeting.py ):Create a personalized greeting by concatenating first
 ## Repository Structure
 
 task1_basic_math.py     # Reads two numbers, performs operations, handles errors
+
 task2_greeting.py       # Reads first & last name and prints a greeting
+
 README.md               # You are reading it
 
 
