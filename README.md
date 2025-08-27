@@ -7,8 +7,12 @@ Task 1:Perform basic mathematical operations (addition, subtraction, multiplicat
 
 Task 2:Create a personalized greeting by concatenating first and last names.
 
-### Repository Structure
+## Repository Structure
+
+```text
 .
 ├── task1_basic_math.py     # Reads two numbers, performs operations, handles errors
 ├── task2_greeting.py       # Reads first & last name and prints a greeting
 └── README.md               # You are reading it
+```
+
